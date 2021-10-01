@@ -2,17 +2,17 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; 
-- 🎓 &nbsp; 
-- 💼 &nbsp; 
-- 🌱 &nbsp; 
-- ✍️ &nbsp; 
+🤔 &nbsp; My name is Erik
+📫 &nbsp; From Greater Boston, Massachusetts
+🎓 &nbsp; Self-Taught Developer looking to land my first job in the tech industry
+💼 &nbsp; Former Store Manager at a Drug Store & Retailer
+💬 &nbsp; I like to talk about MLB, NFL, Fantasy Sports, Gaming, Computers, Travel and Cats
 
-<h3> 🛠 &nbsp;Tech Stack</h3>
+<h3> 🛠 &nbsp;Tech Stacks</h3>
 
-- 💻 &nbsp;
+💻 &nbsp;
 
-- 🌐 &nbsp;
+🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
@@ -20,13 +20,14 @@
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![ReactJS](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![NextJS](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js)
-- 🛢 &nbsp;
+🛢 &nbsp;
 
-- ⚙️ &nbsp;
+⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
-- 🔧 &nbsp;
+   ![Netlify](https://img.shields.io/badge/-Netlify-333333?style=flat&logo=netlify)
+🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 <br/>
 
@@ -41,9 +42,7 @@
 
 <!--
 **ErikMoxley/ErikMoxley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
