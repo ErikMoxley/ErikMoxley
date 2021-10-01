@@ -3,9 +3,13 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 🤔 &nbsp; My name is Erik
+
 📫 &nbsp; From Greater Boston, Massachusetts
+
 🎓 &nbsp; Self-Taught Developer looking to land my first job in the tech industry
+
 💼 &nbsp; Former Store Manager at a Drug Store & Retailer
+
 💬 &nbsp; I like to talk about MLB, NFL, Fantasy Sports, Gaming, Computers, Travel and Cats
 
 <h3> 🛠 &nbsp;Tech Stacks</h3>
