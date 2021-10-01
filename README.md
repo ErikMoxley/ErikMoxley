@@ -34,8 +34,8 @@
 
 <p align="center">
 <a href="https://www.erikmoxley.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.erikmoxley.com-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/erickongkaew/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/erik.moxley/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-adityavs__-blue?style=flat-square&logo=instagram"></a>
+<a href="https://www.linkedin.com/in/erickongkaew/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Eric%20Kongkaew%20-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.instagram.com/erik.moxley/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-erik.moxley-blue?style=flat-square&logo=instagram"></a>
 <a href="mailto:moxleydev@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-moxleydev@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
