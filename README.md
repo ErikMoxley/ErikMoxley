@@ -31,11 +31,11 @@
 
 <h3> 🤝🏻 &nbsp;Network</h3>
 
-<p align="center">
+<p align="left">
 <a href="https://twitter.com/MoxleyDev/"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-@MoxleyDev-blue?style=flat-square&logo=twitter"></a>
 <a href="https://www.erikmoxley.com/"><img alt="Website" src="https://img.shields.io/badge/Website-erikmoxley.com-blue?style=flat-square&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/erickongkaew/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Eric%20K%20-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.polywork.com/erikmoxley"><img alt="Polywork" src="https://img.shields.io/badge/Polywork-@erikmoxley-blue?style=flat-square&logo=polywork"></a>
+<a href="https://www.polywork.com/erikmoxley"><img alt="Polywork" src="https://img.shields.io/badge/Polywork-@erikmoxley-blue?style=flat-square&logo=polywork"></a><br>
 <a href="https://hashnode.com/@MoxleyDev"><img alt="Hashnode" src="https://img.shields.io/badge/Hashnode-@MoxleyDev-blue?style=flat-square&logo=hashnode"></a>
 <a href="https://moxleydevblog.netlify.app/"><img alt="NextJS" src="https://img.shields.io/badge/NextJS-Blog-blue?style=flat-square&logo=firefox"></a>
 <a href="https://www.instagram.com/erik.moxley/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-erik.moxley-blue?style=flat-square&logo=instagram"></a>
@@ -58,6 +58,6 @@ Here are some ideas to get you started:
 
 <h3>⚡ &nbsp;Stats </h3>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ErikMoxley&layout=compact&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-![Erik's github stats](https://github-readme-stats.vercel.app/api?username=ErikMoxley&theme=dark&show_icons=true&hide=contribs,issues)
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=erikmoxley)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ErikMoxley&layout=compact&theme=dark&show_icons=true&card_width=445)](https://github.com/anuraghazra/github-readme-stats)
+![Erik's github stats](https://github-readme-stats.vercel.app/api?username=ErikMoxley&theme=dark&show_icons=true&hide=contribs,issues&count_private=true)
+[![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=erikmoxley&layout=compact&range=last_7_days&custom_title=Wakatime&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
