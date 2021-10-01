@@ -20,6 +20,7 @@
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![ReactJS](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![NextJS](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js)
+  
 🛢 &nbsp;
 
 ⚙️ &nbsp;
@@ -27,8 +28,10 @@
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
    ![Netlify](https://img.shields.io/badge/-Netlify-333333?style=flat&logo=netlify)
+   
 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+
 <br/>
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
