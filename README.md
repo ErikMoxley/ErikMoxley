@@ -2,7 +2,7 @@
 
 😄 &nbsp; My name is Erik<br>
 📫 &nbsp; From Greater Boston, Massachusetts<br>
-🎓 &nbsp; Self-Taught Developer looking to land my first job in the tech industry<br>
+🎓 &nbsp; Self-Taught Developer looking to land first job in the tech industry<br>
 🌱 &nbsp; Currently learning React and NextJS<br>
 💼 &nbsp; Former Store Manager at a Pharmacy, Beauty & Retailer<br>
 💬 &nbsp; I like to talk about MLB, NFL, Fantasy Sports, Gaming, Computers, Food, Restaurants, Travel and Cats<br>
