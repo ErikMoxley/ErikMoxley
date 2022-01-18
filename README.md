@@ -40,7 +40,7 @@
 <a href="https://hashnode.com/@MoxleyDev"><img alt="Hashnode" src="https://img.shields.io/badge/Hashnode-@MoxleyDev-blue?style=flat-square&logo=hashnode"></a>
 <a href="https://moxleydevblog.netlify.app/"><img alt="NextJS" src="https://img.shields.io/badge/NextJS-Blog-blue?style=flat-square&logo=firefox"></a>
 <a href="https://www.instagram.com/erik.moxley/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-erik.moxley-blue?style=flat-square&logo=instagram"></a>
-<a href="mailto:moxleydev@gmail.com"><img alt="gmail" src="https://img.shields.io/badge/MoxleyDev-@Gmail.com-blue?style=flat-square&logo=gmail"></a>
+<a href="mailto:moxleydev@gmail.com"><img alt="gmail" src="https://img.shields.io/badge/MoxleyDev-@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
 <!--
