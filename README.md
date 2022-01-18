@@ -17,8 +17,8 @@
   ![NextJS](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![NPM](https://img.shields.io/badge/-NPM-333333?style=flat&logo=npm)
-  ![Express](https://img.shields.io/badge/-Gatsby-333333?style=flat&logo=express)
-  ![MySQL](https://img.shields.io/badge/-Gatsby-333333?style=flat&logo=mysql)<br>
+  ![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=express)
+  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)<br>
 ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
