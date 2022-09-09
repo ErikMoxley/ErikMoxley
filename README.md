@@ -33,7 +33,6 @@
 <h3> 🤝🏻 &nbsp;Network</h3>
 
 <p align="left">
-<a href="https://twitter.com/ErikMoxleyDev/"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-@ErikMoxleyDev-blue?style=flat-square&logo=twitter"></a>
 <a href="https://www.erikmoxley.com/"><img alt="Website" src="https://img.shields.io/badge/Website-erikmoxley.com-blue?style=flat-square&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/erickongkaew/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Eric%20K%20-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://www.polywork.com/erikmoxley"><img alt="Polywork" src="https://img.shields.io/badge/Polywork-@erikmoxley-blue?style=flat-square&logo=polywork"></a><br>
