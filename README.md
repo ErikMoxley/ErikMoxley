@@ -32,10 +32,9 @@
 <h3> 🤝🏻 &nbsp;Network</h3>
 
 <p align="left">
-<a href="https://www.erikmoxley.com/"><img alt="Website" src="https://img.shields.io/badge/Website-erikmoxley.com-blue?style=flat-square&logo=google-chrome"></a>
+<a href="https://www.erickongkaew.com/"><img alt="Website" src="https://img.shields.io/badge/Website-erickongkaew.com-blue?style=flat-square&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/erickongkaew/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Eric%20K%20-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.polywork.com/erikmoxley"><img alt="Polywork" src="https://img.shields.io/badge/Polywork-@erikmoxley-blue?style=flat-square&logo=polywork"></a><br>
-<a href="https://hashnode.com/@MoxleyDev"><img alt="Hashnode" src="https://img.shields.io/badge/Hashnode-@MoxleyDev-blue?style=flat-square&logo=hashnode"></a>
+<a href="https://hashnode.com/@ErikMoxleyPM"><img alt="Hashnode" src="https://img.shields.io/badge/Hashnode-@MoxleyDev-blue?style=flat-square&logo=hashnode"></a>
 <a href="https://www.instagram.com/erik.moxley/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-erik.moxley-blue?style=flat-square&logo=instagram"></a>
 <a href="mailto:moxleydev@gmail.com"><img alt="gmail" src="https://img.shields.io/badge/MoxleyDev-@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
