@@ -4,7 +4,7 @@
 📫 &nbsp; From Greater Boston, Massachusetts<br>
 🎓 &nbsp; Self-Taught Software Developer working in the tech industry<br>
 🌱 &nbsp; Currently improving my skills in JavaScript, React, NextJS and building with APIs<br>
-💼 &nbsp; Former Manager of Operations in the Pharmaceutical Industry, Beauty & Retailer<br>
+💼 &nbsp; Former Manager of Pharmacy and Retail, 6+ years of managing people/projects, 12+ years in Pharmaceutical/Retail industry<br>
 <h3> 🛠 &nbsp;Tech</h3>
 
 🌐 &nbsp;
