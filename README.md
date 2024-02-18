@@ -32,7 +32,7 @@
 <h3> 🤝🏻 &nbsp;Network</h3>
 
 <p align="left">
-<a href="https://www.erikmoxley.com/"><img alt="Website" src="https://img.shields.io/badge/Website-erickongkaew.com-blue?style=flat-square&logo=google-chrome"></a>
+<a href="https://www.erikmoxley.com/"><img alt="Website" src="https://img.shields.io/badge/Website-ericmoxley.com-blue?style=flat-square&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/ericmoxley/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Eric%20K%20-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:moxleydev@gmail.com"><img alt="gmail" src="https://img.shields.io/badge/MoxleyDev-@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
