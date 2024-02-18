@@ -1,9 +1,9 @@
 <h3> 👨🏻‍💻 &nbsp;About</h3>
 
-😄 &nbsp; My name is Erik<br>
+😄 &nbsp; My name is Eric<br>
 📫 &nbsp; From Greater Boston, Massachusetts<br>
-🎓 &nbsp; Self-Taught Software Developer working in the tech industry<br>
-🌱 &nbsp; Currently improving my skills in JavaScript, React, NextJS and building with APIs<br>
+🌱 &nbsp; Currently working as a Software Support Engineer II<br>
+🎓 &nbsp; Self-Taught Software Developer who broke into the tech industry<br>
 💼 &nbsp; Former Manager of Pharmacy and Retail, 6+ years of managing people/projects, 12+ years in Pharmaceutical/Retail industry<br>
 <h3> 🛠 &nbsp;Tech</h3>
 
@@ -32,8 +32,8 @@
 <h3> 🤝🏻 &nbsp;Network</h3>
 
 <p align="left">
-<a href="https://www.erickongkaew.com/"><img alt="Website" src="https://img.shields.io/badge/Website-erickongkaew.com-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/erickongkaew/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Eric%20K%20-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.erikmoxley.com/"><img alt="Website" src="https://img.shields.io/badge/Website-erickongkaew.com-blue?style=flat-square&logo=google-chrome"></a>
+<a href="https://www.linkedin.com/in/ericmoxley/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Eric%20K%20-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:moxleydev@gmail.com"><img alt="gmail" src="https://img.shields.io/badge/MoxleyDev-@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
