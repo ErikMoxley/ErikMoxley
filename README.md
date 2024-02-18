@@ -2,7 +2,7 @@
 
 😄 &nbsp; My name is Eric<br>
 📫 &nbsp; From Greater Boston, Massachusetts<br>
-🌱 &nbsp; Currently working as a Software Support Engineer II<br>
+🌱 &nbsp; Currently working as a Software Product Support Engineer II<br>
 🎓 &nbsp; Self-Taught Software Developer who broke into the tech industry<br>
 💼 &nbsp; Former Manager of Pharmacy and Retail, 6+ years of managing people/projects, 12+ years in Pharmaceutical/Retail industry<br>
 <h3> 🛠 &nbsp;Tech</h3>
